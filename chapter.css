@@ -1,0 +1,21 @@
+h1{
+    color:rgb(50, 113, 113);
+}
+.rounded-circle{
+    height:170px;
+    width:190px;
+}
+.logo1{
+    height:75px;
+    width:230px;
+}
+.logo2{
+    height:200px;
+    width:220px;
+}
+.logo3{
+    height:170px;
+    width:190px;
+    border:1px solid white;
+    border-radius:300px;   
+}
